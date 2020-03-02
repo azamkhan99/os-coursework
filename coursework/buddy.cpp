@@ -221,7 +221,7 @@ public:
 
 		PageDescriptor *pgd = _free_areas[order];
 		//if there is free space in order, just return it
-		if (pgd) {
+		if (_free_areas[order]) {
 		    remove_block(pgd, order);
 		    return pgd;
 		}
@@ -261,9 +261,24 @@ public:
 		while (order < MAX_ORDER) {
 		    PageDescriptor *buddy = buddy_of(*slot, order);
 		    PageDescriptor *block_pointer = _free_areas[order];
+		    bool merged = false;
+		    while (block_pointer) {
+		        if (block_pointer == buddy) {
+		            slot = merge_block(slot, order);
+		            order++;
+		            merged = true;
+		            break;
+		        }
+		        block_pointer  = block_pointer->next_free;
+
+		    }
+		    if (merged == false) {
+		        break;
+		    }
 
 
 		}
+
 
 	}
 	
