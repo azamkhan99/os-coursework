@@ -1,0 +1,4 @@
+/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/CMakeFiles/deneme2.dir
+/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/CMakeFiles/deneme.dir

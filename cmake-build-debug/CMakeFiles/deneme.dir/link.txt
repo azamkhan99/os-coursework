@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/deneme.dir/coursework/buddy.cpp.o CMakeFiles/deneme.dir/coursework/cmos-rtc.cpp.o CMakeFiles/deneme.dir/coursework/sched-rr.cpp.o  -o deneme 

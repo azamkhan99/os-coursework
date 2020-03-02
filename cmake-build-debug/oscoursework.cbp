@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="oscoursework"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deneme2">
+				<Option output="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/libdeneme2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 deneme2"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deneme2/fast">
+				<Option output="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/libdeneme2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 deneme2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deneme">
+				<Option output="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/deneme" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 deneme"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deneme/fast">
+				<Option output="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/deneme" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 deneme/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework-skeletons/buddy.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework-skeletons/cmos-rtc.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework-skeletons/sched-rr.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework/buddy.cpp">
+			<Option target="deneme2"/>
+			<Option target="deneme"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework/cmos-rtc.cpp">
+			<Option target="deneme2"/>
+			<Option target="deneme"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/coursework/sched-rr.cpp">
+			<Option target="deneme2"/>
+			<Option target="deneme"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/exec.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/init.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/io.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/printf.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/string.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/lib/syscall.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/cat/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/date/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/init/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/ls/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/sched-test1/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/sched-test2/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/shell/shell.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos-user/src/tictactoe/main.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/acpi/acpi.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/assert.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/cpu.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/devices.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/dt.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/early-screen.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/irq.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/mm.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/modules.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/platform.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/qemu-stream.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/sched.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/start.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/syscall.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/arch/x86/x86-arch.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/ata/ata-controller.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/ata/ata-device.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/block/block-device-partition.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/block/block-device.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/console/console.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/console/physical-console.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/console/virtual-console.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/controller.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/device.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/input/keyboard.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/irq/ioapic.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/irq/lapic.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/bridge.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/display.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/network.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/pci-bus.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/pci-device.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/pci/storage.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/terminal/terminal.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/timer/lapic-timer.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/timer/pit.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/timer/rtc.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/timer/timer.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/drivers/video/vga-console.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/block-based-filesystem.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/devfs.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/directory.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/exec/elf-loader.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/filesystem.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/internal-driver.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/rootfs.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/tmpfs.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/vfat.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/vfs-node.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/fs/vfs.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/device-manager.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/irq.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/kernel.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/log.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/module.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/object.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/om.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/process.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/sched-cfs.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/sched.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/syscall.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/kernel/thread.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/dlmalloc.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/mm.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/object-allocator.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/page-allocator.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/simple-page-alloc.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/mm/vma.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/cmdline.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/event.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/lock.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/printf.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/string.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/infos/util/support.cpp">
+			<Option target="deneme2"/>
+		</Unit>
+		<Unit filename="/afs/inf.ed.ac.uk/user/s17/s1704037/os-coursework/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
